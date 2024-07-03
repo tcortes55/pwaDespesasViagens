@@ -1,6 +1,6 @@
 {
-    "name": "Gestão de Despesas em Viagens",
-    "short_name": "DespesasViagens",
+    "name": "GestaoDespesas",
+    "short_name": "GestaoDespesas",
     "description": "Gestão de despesas em viagens",
     "start_url": "/index.html",
     "display": "standalone",
@@ -10,11 +10,6 @@
       {
         "src": "/icons/icon.png",
         "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "/icons/icon.png",
-        "sizes": "512x512",
         "type": "image/png"
       }
     ]
