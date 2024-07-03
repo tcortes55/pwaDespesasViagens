@@ -1,17 +1,21 @@
 {
-    "name": "GestaoDespesas",
-    "short_name": "GestaoDespesas",
-    "description": "Gestão de despesas em viagens",
-    "start_url": "/index.html",
+    "name": "Gestão de Despesas em Viagens",
+    "short_name": "Despesas",
+    "description": "Aplicação para gerenciar despesas de viagem.",
+    "start_url": "/",
     "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "background_color": "#4CAF50",
+    "theme_color": "#4CAF50",
     "icons": [
-      {
-        "src": "/icons/icon.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
     ]
-  }
-  
+}
